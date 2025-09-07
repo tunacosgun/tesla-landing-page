@@ -7,7 +7,7 @@ Tamamen **HTML, CSS ve JavaScript** ile geliştirilmiş, responsive bir tasarım
 
 ## 📸 Önizleme
 
-![Tesla Roadster Preview](./gorsel.png)
+![Tesla Roadster Preview](/gorsel.png)
 
 ---
 
