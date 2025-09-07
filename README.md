@@ -7,7 +7,7 @@ Tamamen **HTML, CSS ve JavaScript** ile geliştirilmiş, responsive bir tasarım
 
 ## 📸 Önizleme
 
-![Tesla Roadster Preview](./Ekran_Resmi_2025-09-07_04.19.02.png)
+![Tesla Roadster Preview](./gorsel.png)
 
 ---
 
